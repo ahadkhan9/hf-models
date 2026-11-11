@@ -45,17 +45,19 @@ A repository for storing and hosting quantized GGUF models from Hugging Face.
   - **Version**: `5.1231.2`
   - **Platform**: Windows 10 / 11 (x64)
   - **File Size**: ~284 MB (297,627,772 bytes)
+  - **Direct Download**: [GitHub Release Asset](https://github.com/ahadkhan9/hf-models/releases/download/claude-desktop-v5.1231.2/Claude-26912242b6649f3e503e012d9b7b9367d09c68e4.msix)
   - **Tracked with**: Git LFS
   - **Installation (PowerShell)**:
     ```powershell
     Add-AppxPackage -Path ".\Claude-26912242b6649f3e503e012d9b7b9367d09c68e4.msix"
     ```
-    *(Useful when corporate firewalls or proxies intercept the web installer download from `downloads.claude.ai`)*
+    *(Use when corporate firewalls or proxies intercept the web installer download from `downloads.claude.ai`)*
 
 - **Web Setup Bootstrapper**: `Claude Setup.exe`
   - **Version**: `5.1231.2`
   - **Platform**: Windows 10 / 11 (x64)
   - **File Size**: ~7.1 MB (7,495,328 bytes)
+  - **Direct Download**: [GitHub Release Asset](https://github.com/ahadkhan9/hf-models/releases/download/claude-desktop-v5.1231.2/Claude.Setup.exe)
   - **Description**: Official Anthropic Claude Desktop client web stub installer for Windows.
 
 ---
