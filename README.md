@@ -39,6 +39,16 @@ A repository for storing and hosting quantized GGUF models from Hugging Face.
 
 ---
 
+### 3. Claude Desktop (Windows x64)
+
+- **Filename**: `Claude Setup.exe`
+- **Platform**: Windows 10 / 11 (x64)
+- **Version**: `5.1231.2`
+- **File Size**: ~7.1 MB (7,495,328 bytes)
+- **Description**: Official Anthropic Claude Desktop client installer for Windows.
+
+---
+
 ## Git LFS Requirement
 
 Because model files exceed GitHub's standard 100 MB file limit, this repository uses [Git Large File Storage (LFS)](https://git-lfs.com/).
